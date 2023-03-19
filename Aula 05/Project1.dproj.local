@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2020/08/14 10:56:06.532,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/08/14 10:56:31.535,D:\Projetos\Cursos\BlogFontes\trunk\Dominando a RTTI do Delphi\Aula 05\Aula05.Principal.dfm=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2020/08/14 10:56:31.535,D:\Projetos\Cursos\BlogFontes\trunk\Dominando a RTTI do Delphi\Aula 05\Aula05.Principal.pas=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/08/14 10:56:33.623,D:\Projetos\Cursos\BlogFontes\trunk\Dominando a RTTI do Delphi\Aula 05\Project1.dproj=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+	<Transactions>
+    <Transaction>2020/08/14 10:56:06.000.532,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/08/14 10:56:31.000.535,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos\Cursos\BlogFontes\trunk\Dominando a RTTI do Delphi\Aula 05\Aula05.Principal.pas</Transaction>
+    <Transaction>2020/08/14 10:56:31.000.535,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projetos\Cursos\BlogFontes\trunk\Dominando a RTTI do Delphi\Aula 05\Aula05.Principal.dfm</Transaction>
+    <Transaction>2020/08/14 10:56:33.000.623,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos\Cursos\BlogFontes\trunk\Dominando a RTTI do Delphi\Aula 05\Project1.dproj</Transaction>
+    <Transaction>2023/03/16 23:04:26.895,=D:\OneDrive - Etec Centro Paula Souza\Git Projetos\Delphi\Dominando a RTTI do Delphi\Delphi-RTTI\Aula 05\Pessoa.pas</Transaction>
+    <Transaction>2023/03/16 23:04:26.900,=D:\OneDrive - Etec Centro Paula Souza\Git Projetos\Delphi\Dominando a RTTI do Delphi\Delphi-RTTI\Aula 05\RttiUtils.pas</Transaction>
   </Transactions>
 </BorlandProject>

@@ -2,7 +2,9 @@ program Project1;
 
 uses
   Vcl.Forms,
-  Aula05.Principal in 'Aula05.Principal.pas' {Form1};
+  Aula05.Principal in 'Aula05.Principal.pas' {Form1},
+  Pessoa in 'Pessoa.pas',
+  RttiUtils in 'RttiUtils.pas';
 
 {$R *.res}
 
